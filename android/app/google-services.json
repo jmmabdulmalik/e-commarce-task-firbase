@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793204015822",
+    "project_id": "api-task-42309",
+    "storage_bucket": "api-task-42309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793204015822:android:b601f2f5f0a8758ca0469f",
+        "android_client_info": {
+          "package_name": "com.example.e_commarce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793204015822-jmpi4sq0ekktmjp9m1f594r5uf2pni3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLg6yT7H7EqZtRyXEIqkhGomqKsqwB4bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793204015822-jmpi4sq0ekktmjp9m1f594r5uf2pni3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
